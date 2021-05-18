@@ -1,5 +1,5 @@
 {
-  "name": "parcel-project-template",
+  "name": "hell-en--project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "url": "git+https://github.com/annasabbagh/HELL-EN--project"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Oleksandr Gneushev",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/annasabbagh/HELL-EN--project"
