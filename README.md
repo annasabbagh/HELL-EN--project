@@ -2,7 +2,8 @@
 
 A short-term team project by :one::three: _collaborators_.
 
-I was a **_Scrum Master_** of the project (chosen by the teammates).
+I was a **_Scrum Master_** of the project (chosen by the teammates) and worked
+on **_Отзывы выпускников_** section.
 
 The website created from scratch by the
 [prototype in Figma](https://www.figma.com/proto/uZMUZ8GHY42eg9JUsomuVV/Hell-En-project?node-id=1%3A4&scaling=scale-down-width).</br>
